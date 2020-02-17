@@ -20,7 +20,7 @@ hevea:
 	cp up.png next.png back.png html
 	mv index.html thinkstats2.css thinkstats2*.html thinkstats2*.png *motif.gif html
 
-DEST = /home/downey/public_html/greent/thinkstats2
+DEST = /home/bitmole/books/thinkstats2
 
 distrib:
 	rm -rf dist
